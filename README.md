@@ -13,4 +13,4 @@ To run blog on localhost:3000 you need to:
 -----
 Optional
 
-8. Install nodemon - npm i nodemon, fro constatly run and update changes to server 
+8. Install nodemon - npm i nodemon, for constatly run and update changes to server 
