@@ -5,7 +5,7 @@ To run blog on localhost:3000 you need to:
 
 1. Download all files  
 2. Run node
-3. Install Node files - npm init 
+3. Set up npm package - npm init 
 4. Install Express - npm install express
 5. Install EJS - npm install ejs
 6. Install body parse - npm install body-parser
